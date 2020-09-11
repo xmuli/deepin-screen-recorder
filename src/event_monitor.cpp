@@ -28,6 +28,7 @@
 #include <X11/keysymdef.h>
 #include <X11/keysym.h>
 #include <X11/extensions/XTest.h>
+#undef min
 #include "keydefine.h"
 #include <iostream>
 

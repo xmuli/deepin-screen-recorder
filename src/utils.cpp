@@ -33,6 +33,7 @@
 #include "utils.h"
 //#include <dwindowmanager.h>
 #include "constant.h"
+#include <QPainterPath>
 #include <QStandardPaths>
 
 //DWM_USE_NAMESPACE
